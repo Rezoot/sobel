@@ -1,0 +1,22 @@
+﻿  sobel.cpp
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(61,22): warning C4244: "return": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(177,17): warning C4129: " ": nierozpoznany znak sekwencji ucieczki
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(275,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(289,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(295,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(297,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(329,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(381,46): warning C4244: "=": konwersja z "long" do "unsigned char", możliwa utrata danych
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(414,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(436,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(451,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(514,41): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(554,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(564,41): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(583,23): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(595,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(611,53): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(649,42): warning C4244: "=": konwersja z "long" do "unsigned char", możliwa utrata danych
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(660,41): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Janusz\source\repos\sobel\sobel\sobel.cpp(685,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  sobel.vcxproj -> C:\Users\Janusz\source\repos\sobel\x64\Debug\sobel.exe
