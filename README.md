@@ -1,1 +1,1 @@
-# sobel
+# sobel detection
